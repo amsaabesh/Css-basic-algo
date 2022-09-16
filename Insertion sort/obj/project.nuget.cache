@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aTnrtLneuk8alRLFZgRNEvKqVMyrB/CxRuaprpBfIto6rd7mkmB0ccepgnudfe34GCzI3qecxHC8BhRuxEAa+Q==",
+  "success": true,
+  "projectFilePath": "E:\\Code\\C# basic alogs\\Insertion sort\\Insertion sort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

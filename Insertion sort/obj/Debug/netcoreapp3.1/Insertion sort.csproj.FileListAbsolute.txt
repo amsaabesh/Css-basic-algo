@@ -1,0 +1,13 @@
+E:\Code\C# basic alogs\Insertion sort\bin\Debug\netcoreapp3.1\Insertion sort.exe
+E:\Code\C# basic alogs\Insertion sort\bin\Debug\netcoreapp3.1\Insertion sort.deps.json
+E:\Code\C# basic alogs\Insertion sort\bin\Debug\netcoreapp3.1\Insertion sort.runtimeconfig.json
+E:\Code\C# basic alogs\Insertion sort\bin\Debug\netcoreapp3.1\Insertion sort.runtimeconfig.dev.json
+E:\Code\C# basic alogs\Insertion sort\bin\Debug\netcoreapp3.1\Insertion sort.dll
+E:\Code\C# basic alogs\Insertion sort\bin\Debug\netcoreapp3.1\Insertion sort.pdb
+E:\Code\C# basic alogs\Insertion sort\obj\Debug\netcoreapp3.1\Insertion sort.csprojAssemblyReference.cache
+E:\Code\C# basic alogs\Insertion sort\obj\Debug\netcoreapp3.1\Insertion sort.AssemblyInfoInputs.cache
+E:\Code\C# basic alogs\Insertion sort\obj\Debug\netcoreapp3.1\Insertion sort.AssemblyInfo.cs
+E:\Code\C# basic alogs\Insertion sort\obj\Debug\netcoreapp3.1\Insertion sort.csproj.CoreCompileInputs.cache
+E:\Code\C# basic alogs\Insertion sort\obj\Debug\netcoreapp3.1\Insertion sort.dll
+E:\Code\C# basic alogs\Insertion sort\obj\Debug\netcoreapp3.1\Insertion sort.pdb
+E:\Code\C# basic alogs\Insertion sort\obj\Debug\netcoreapp3.1\Insertion sort.genruntimeconfig.cache
