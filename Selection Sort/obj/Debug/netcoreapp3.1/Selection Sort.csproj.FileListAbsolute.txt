@@ -1,0 +1,13 @@
+E:\Code\C# basic alogs\Selection Sort\bin\Debug\netcoreapp3.1\Selection Sort.exe
+E:\Code\C# basic alogs\Selection Sort\bin\Debug\netcoreapp3.1\Selection Sort.deps.json
+E:\Code\C# basic alogs\Selection Sort\bin\Debug\netcoreapp3.1\Selection Sort.runtimeconfig.json
+E:\Code\C# basic alogs\Selection Sort\bin\Debug\netcoreapp3.1\Selection Sort.runtimeconfig.dev.json
+E:\Code\C# basic alogs\Selection Sort\bin\Debug\netcoreapp3.1\Selection Sort.dll
+E:\Code\C# basic alogs\Selection Sort\bin\Debug\netcoreapp3.1\Selection Sort.pdb
+E:\Code\C# basic alogs\Selection Sort\obj\Debug\netcoreapp3.1\Selection Sort.csprojAssemblyReference.cache
+E:\Code\C# basic alogs\Selection Sort\obj\Debug\netcoreapp3.1\Selection Sort.AssemblyInfoInputs.cache
+E:\Code\C# basic alogs\Selection Sort\obj\Debug\netcoreapp3.1\Selection Sort.AssemblyInfo.cs
+E:\Code\C# basic alogs\Selection Sort\obj\Debug\netcoreapp3.1\Selection Sort.csproj.CoreCompileInputs.cache
+E:\Code\C# basic alogs\Selection Sort\obj\Debug\netcoreapp3.1\Selection Sort.dll
+E:\Code\C# basic alogs\Selection Sort\obj\Debug\netcoreapp3.1\Selection Sort.pdb
+E:\Code\C# basic alogs\Selection Sort\obj\Debug\netcoreapp3.1\Selection Sort.genruntimeconfig.cache
